@@ -1,0 +1,10 @@
+django/venv
+django/db.sqlite3
+statistica/venv
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
